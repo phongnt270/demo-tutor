@@ -1,0 +1,9 @@
+.ruby-version
+
+# Ignore IDEA
+.idea
+.editorconfig
+
+# Ignore macOS files
+*.DS_Store
+.DS_Store/*
